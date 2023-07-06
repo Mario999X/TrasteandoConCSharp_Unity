@@ -19,3 +19,7 @@ Versión mejorada con las siguientes adiciones:
 - [Menú de Pausa](https://www.youtube.com/watch?v=ROwsdftEGF0&t=66s)
 - [Efectos Sonoros](https://levelup.gitconnected.com/how-to-play-sound-effects-in-unity-6a122bb32970)
 - [Cambio de Escena](https://www.youtube.com/watch?v=YVATrLTZZTk)
+
+## [Lectura y Escritura de Ficheros](LecturaEscrituraFicheros)
+
+Uso de [StreamWriter](https://learn.microsoft.com/en-us/dotnet/api/system.io.streamwriter?view=net-7.0) y [StreamReader](https://learn.microsoft.com/en-us/dotnet/api/system.io.streamreader?view=net-7.0) para almacenar datos de manera persistente. Se ha seguido el siguiente [tutorial].(https://www.youtube.com/watch?v=aSNj2nvSyD4)
