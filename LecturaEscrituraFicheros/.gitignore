@@ -73,5 +73,5 @@ crashlytics-build.properties
 
 # Fichero Propio Dev
 /Assets/SaveData.json
-
+/Assets/SaveData.json.meta
 
