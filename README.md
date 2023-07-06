@@ -22,4 +22,4 @@ Versión mejorada con las siguientes adiciones:
 
 ## [Lectura y Escritura de Ficheros](LecturaEscrituraFicheros)
 
-Uso de [StreamWriter](https://learn.microsoft.com/en-us/dotnet/api/system.io.streamwriter?view=net-7.0) y [StreamReader](https://learn.microsoft.com/en-us/dotnet/api/system.io.streamreader?view=net-7.0) para almacenar datos de manera persistente. Se ha seguido el siguiente [tutorial].(https://www.youtube.com/watch?v=aSNj2nvSyD4)
+Uso de [StreamWriter](https://learn.microsoft.com/en-us/dotnet/api/system.io.streamwriter?view=net-7.0) y [StreamReader](https://learn.microsoft.com/en-us/dotnet/api/system.io.streamreader?view=net-7.0) para almacenar datos de manera persistente. Se ha seguido el siguiente [tutorial](https://www.youtube.com/watch?v=aSNj2nvSyD4).
