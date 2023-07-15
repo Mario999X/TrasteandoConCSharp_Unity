@@ -23,3 +23,18 @@ Versión mejorada con las siguientes adiciones:
 ## [Lectura y Escritura de Ficheros](LecturaEscrituraFicheros)
 
 Uso de [StreamWriter](https://learn.microsoft.com/en-us/dotnet/api/system.io.streamwriter?view=net-7.0) y [StreamReader](https://learn.microsoft.com/en-us/dotnet/api/system.io.streamreader?view=net-7.0) para almacenar datos de manera persistente. Se ha seguido el siguiente [tutorial](https://www.youtube.com/watch?v=aSNj2nvSyD4).
+
+## [Player Preferences & Internacionalización](PlayerPreferencesAndInternacionalizacion)
+
+Siguiendo el siguiente [tutorial](https://www.youtube.com/watch?v=jjLr0MFlZWQ) y la [documentación oficial](https://docs.unity3d.com/530/Documentation/ScriptReference/PlayerPrefs.html#:~:text=On%20Mac%20OS%20X%20PlayerPrefs,%5Bproduct%20name%5D.) se ha realizado un almacenamiento de datos persistentes del jugador.
+
+Estos datos son almacenados en las siguientes ubicaciones según el SO usado:
+
+- **Windows** (registro/regedit):  HKCU\Software\[nombre de la empresa]\[nombre del producto] key
+
+- **Linux**: ~/.config/unity3d/[NombreDeLaEmpresa]/[NombreDelProducto]
+
+- **Mac OS**: ~/Library/Preferences directorio, en un archivo nombrado unity.[nombre de la empresa].[nombre del producto].plist
+
+
+Para la internacionalización, se ha seguido el siguiente [tutorial](https://www.youtube.com/watch?v=qcXuvd7qSxg).
