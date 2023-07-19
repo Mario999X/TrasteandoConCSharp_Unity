@@ -18,7 +18,7 @@ Versión mejorada con las siguientes adiciones:
 
 - [Menú de Pausa](https://www.youtube.com/watch?v=ROwsdftEGF0&t=66s)
 - [Efectos Sonoros](https://levelup.gitconnected.com/how-to-play-sound-effects-in-unity-6a122bb32970)
-- [Cambio de Escena](https://www.youtube.com/watch?v=YVATrLTZZTk)
+- [Cambio de Escena](https://www.youtube.com/watch?v=YVATrLTZZTk) (Menú Principal).
 
 ## [Lectura y Escritura de Ficheros](LecturaEscrituraFicheros)
 
