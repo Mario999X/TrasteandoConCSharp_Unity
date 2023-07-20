@@ -6,7 +6,7 @@ Primeros proyectos realizados usando el lenguaje [C#](https://learn.microsoft.co
 
 Réplica del tutorial ofrecido en un [video de Youtube](https://youtu.be/XtQMytORBmM).
 
-## [Consumir una API](ConsumeAPI)
+## [Consumir una API -- Parte I](ConsumeAPI)
 
 Uso de [HttpClient](https://learn.microsoft.com/es-es/dotnet/api/system.net.http.httpclient?view=net-7.0) y [JsonUtility](https://docs.unity3d.com/ScriptReference/JsonUtility.html) para consumir la [PokéAPI](https://pokeapi.co) y mostrar el json obtenido y datos relevantes del mismo, así como controlar errores en la búsqueda realizada.
 
@@ -38,3 +38,7 @@ Estos datos son almacenados en las siguientes ubicaciones según el SO usado:
 
 
 Para la internacionalización, se ha seguido el siguiente [tutorial](https://www.youtube.com/watch?v=qcXuvd7qSxg).
+
+## [Consumir una API -- Parte II](ConsumeAPI_II)
+
+Haciendo uso de una [API que permite POST](https://jsonplaceholder.typicode.com/), mostramos por terminal las respuestas recibidas.
