@@ -42,3 +42,12 @@ Para la internacionalización, se ha seguido el siguiente [tutorial](https://www
 ## [Consumir una API -- Parte II](ConsumeAPI_II)
 
 Haciendo uso de una [API que permite POST](https://jsonplaceholder.typicode.com/), mostramos por terminal las respuestas recibidas.
+
+## [First Game Unity V3](FirstGameUnity_V3)
+
+Versión mejorada con las siguientes adiciones:
+
+- Opción de regresar al menú principal desde el menú de pausa.
+- Si el pájaro sale de la pantalla (zona superior o inferior), la partida se perderá.
+- Capacidad de ver la puntuación más alta obtenida de anteriores partidas y poder actualizarla.
+- Comentarios agregados para facilitar el código.
