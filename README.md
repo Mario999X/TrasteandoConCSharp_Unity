@@ -51,3 +51,9 @@ Versión mejorada con las siguientes adiciones:
 - Si el pájaro sale de la pantalla (zona superior o inferior), la partida se perderá.
 - Capacidad de ver la puntuación más alta obtenida de anteriores partidas y poder actualizarla.
 - Comentarios agregados para facilitar el código.
+
+## [Point & Shoot](PointAndShoot)
+
+- Demostración básica de colisiones entre [Colisiones 2D](https://docs.unity3d.com/ScriptReference/Collision2D.html), y cómo diferenciar la colisión entre dos **Game Object** según su *nombre*.
+
+- Mecánica de seguimiento del puntero del ratón, y de disparo. Se siguió el siguiente [tutorial](https://www.youtube.com/watch?v=LqrAbEaDQzc&list=WL&index=1&t=6s).
